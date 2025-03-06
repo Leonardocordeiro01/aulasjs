@@ -28,3 +28,4 @@ const raizn = n =>  n ** 0.5 // outra forma de usar funções so q mais moderna
 console.log(raizn(9))
 console.log(raizn(16))
 console.log(raizn(25))
+
